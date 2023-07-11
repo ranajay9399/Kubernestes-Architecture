@@ -20,6 +20,8 @@ Now its time to know the kubernestes architecture :
 
 ![image](https://github.com/ranajay9399/Kubernetes-Architecture/assets/122826508/0e9101e5-0fd4-4a42-8e32-f09f59867eac)
 
+![image](https://github.com/ranajay9399/Kubernetes-Architecture/assets/122826508/a910f559-7d00-41d8-8d15-e7f78c323e30)
+
 
 
 
