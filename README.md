@@ -18,6 +18,7 @@ As we know that kubernestes solves mainly below four fundamental issue that dock
 
 Now its time to know the kubernestes architecture : 
 
+![image](https://github.com/ranajay9399/Kubernetes-Architecture/assets/122826508/0e9101e5-0fd4-4a42-8e32-f09f59867eac)
 
 
 
